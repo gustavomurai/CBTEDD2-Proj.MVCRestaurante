@@ -1,0 +1,14 @@
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\RestauranteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\RestauranteApp.AssemblyInfoInputs.cache
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\RestauranteApp.AssemblyInfo.cs
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\RestauranteApp.csproj.CoreCompileInputs.cache
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\bin\Debug\net8.0\RestauranteApp.exe
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\bin\Debug\net8.0\RestauranteApp.deps.json
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\bin\Debug\net8.0\RestauranteApp.runtimeconfig.json
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\bin\Debug\net8.0\RestauranteApp.dll
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\bin\Debug\net8.0\RestauranteApp.pdb
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\RestauranteApp.dll
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\refint\RestauranteApp.dll
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\RestauranteApp.pdb
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\RestauranteApp.genruntimeconfig.cache
+C:\Projetos\RestauranteApp\RestauranteApp\RestauranteApp\obj\Debug\net8.0\ref\RestauranteApp.dll
